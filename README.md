@@ -1,1 +1,2 @@
-Mi primer proyecto git
+Mi primer proyecto git.
+Estoy aprendiendo git.
